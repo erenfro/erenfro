@@ -1,3 +1,7 @@
+[![erenfro GitHub stats](https://github-readme-stats.vercel.app/api?username=erenfro&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![erenfro metrics](./github-metrics.svg)
+
 ### Hi there 👋
 
 <!--
