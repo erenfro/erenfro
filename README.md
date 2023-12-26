@@ -1,20 +1,10 @@
-[![erenfro GitHub stats](https://github-readme-stats.vercel.app/api?username=erenfro&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![erenfro metrics](./github-metrics.svg)
+[![Eric Renfro's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenfro&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
 
-<!--
-**erenfro/erenfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on chezmoi and fish.
+- 🌱 I’m currently learning fish shell, chezmoi, micro editor, and kubernetes.
+- 👯 I’m looking to collaborate on my website, https://linux-help.org/
+- 💬 Ask me about Linux, I've been using Linux for over 30 years and know quite a bit.
+- 📫 How to reach me:
+  - Discord: https://discord.com/users/331909633759379466
+  - Matrix: https://matrix.to/#/@psi-jack:matrix.org
