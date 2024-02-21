@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on chezmoi and fish.
-- 🌱 I’m currently learning fish shell, chezmoi, micro editor, and kubernetes.
+- 🌱 I’m currently learning fish shell, chezmoi, micro editor, kubernetes, and nomad.
 - 👯 I’m looking to collaborate on my website, https://linux-help.org/
 - 💬 Ask me about Linux, I've been using Linux for over 30 years and know quite a bit.
 - 📫 How to reach me:
