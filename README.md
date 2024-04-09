@@ -12,3 +12,4 @@
 - 📫 How to reach me:
   - Discord: https://discord.com/users/331909633759379466
   - Matrix: https://matrix.to/#/@psi-jack:matrix.org
+  - Mastodon: https://social.linux-help.org/@psijack (@psijack@social.linux-help.org)
