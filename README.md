@@ -1,5 +1,5 @@
 [![Eric Renfro's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenfro&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenfro&layout=compact&hide=html&hide_border=true&theme=tokyonight" alt="Eric Renfro's top used languages" /></p>
 
 - 🔭 I'm currently working on yadm and bash.
 - 🌱 I'm currently learning nomad.
