@@ -14,3 +14,31 @@
   - Discord: https://discord.com/users/331909633759379466
   - Matrix: https://matrix.to/#/@psi-jack:matrix.org
   - Mastodon: https://social.linux-help.org/@psijack (@psijack@social.linux-help.org)
+- 🛠️ Hardware
+
+| Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM  | OS     | Purpose                                         |
+|--------|---------------------|----------------|-----------------|-------------|------|--------|-------------------------------------------------|
+| hv1    | Custom              | Ryzen 7 5700G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, control-plane, worker, Longhorn |
+| hv2    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, control-plane, worker, Longhorn |
+| hv3    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, control-plane, worker, Longhorn |
+| k3s4   | Intel NUC DN2820FYK | Intel N2820    | 112GB NVMe SSD  | None        | 8GB  | Debian | worker, Longhorn                                |
+| k3s5   | BESSTAR UM700       | Ryzen 7 3750H  | 256GB NVMe PCIe | None        | 16GB | Debian | worker, Longhorn                                |
+
+  - Total CPU: 50 threads
+  - Total RAM: 120 GB
+- 🗜️ Supporting Hardware
+
+| Name   | Device         | CPU        | OS Disk   | Data Disk | RAM   | OS       | Purpose               |
+|--------|----------------|------------|-----------|-----------|-------|----------|-----------------------|
+| NAS    | Synology DS416 | 2x AL212   | 11TiB HDD | ZFS 56TB  | 1GB   | DSM 7.x  | NAS/NFS/Backup        |
+
+- 🧰 Networking/UPS Hardware
+
+| Device         | Purpose                |
+|----------------|------------------------|
+| EdgeRouter PoE | Router/(BGP not used)  |
+| 2xHP ProCurve  | 24-port Switches       |
+| APC Back-UPS   | UPS hv1                |
+| APC Back-UPS   | UPS hv2                |
+| APC Back-UPS   | UPS hv3                |
+| CyberPower     | UPS Network/Router/NAS |
