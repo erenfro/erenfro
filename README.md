@@ -17,13 +17,13 @@
 
 ## 🛠️ Hardware
 
-| Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM  | OS     | Purpose                                         |
-|--------|---------------------|----------------|-----------------|-------------|------|--------|-------------------------------------------------|
-| hv1    | Custom              | Ryzen 7 5700G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, control-plane, worker, Longhorn |
-| hv2    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, control-plane, worker, Longhorn |
-| hv3    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, control-plane, worker, Longhorn |
-| k3s4   | Intel NUC DN2820FYK | Intel N2820    | 112GB NVMe SSD  | None        | 8GB  | Debian | worker, Longhorn                                |
-| k3s5   | BESSTAR UM700       | Ryzen 7 3750H  | 256GB NVMe PCIe | None        | 16GB | Debian | worker, Longhorn                                |
+| Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM  | OS     | Purpose        |
+|--------|---------------------|----------------|-----------------|-------------|------|--------|----------------|
+| hv1    | Custom              | Ryzen 7 5700G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS |
+| hv2    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS |
+| hv3    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS |
+| k3s4   | Intel NUC DN2820FYK | Intel N2820    | 112GB NVMe SSD  | None        | 8GB  | Debian | PVE            |
+| k3s5   | BESSTAR UM700       | Ryzen 7 3750H  | 256GB NVMe PCIe | None        | 16GB | Debian | PVE            |
 
   - Total CPU: 50 threads
   - Total RAM: 120 GB
