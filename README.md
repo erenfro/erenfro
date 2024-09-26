@@ -14,7 +14,8 @@
   - Discord: https://discord.com/users/331909633759379466
   - Matrix: https://matrix.to/#/@psi-jack:matrix.org
   - Mastodon: https://social.linux-help.org/@psijack (@psijack@social.linux-help.org)
-- 🛠️ Hardware
+
+## 🛠️ Hardware
 
 | Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM  | OS     | Purpose                                         |
 |--------|---------------------|----------------|-----------------|-------------|------|--------|-------------------------------------------------|
@@ -26,13 +27,14 @@
 
   - Total CPU: 50 threads
   - Total RAM: 120 GB
-- 🗜️ Supporting Hardware
+
+## 🗜️ Supporting Hardware
 
 | Name   | Device         | CPU        | OS Disk   | Data Disk | RAM   | OS       | Purpose               |
 |--------|----------------|------------|-----------|-----------|-------|----------|-----------------------|
 | NAS    | Synology DS416 | 2x AL212   | 11TiB HDD | ZFS 56TB  | 1GB   | DSM 7.x  | NAS/NFS/Backup        |
 
-- 🧰 Networking/UPS Hardware
+## 🧰 Networking/UPS Hardware
 
 | Device         | Purpose                |
 |----------------|------------------------|
