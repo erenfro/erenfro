@@ -18,6 +18,8 @@
   - Matrix: https://matrix.to/#/@psi-jack:matrix.org
   - Mastodon: https://social.linux-help.org/@psijack (@psijack@social.linux-help.org)
 
+# 🖥 Proxmox VE Cluster
+
 ## 🛠️ Hardware
 
 | Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM  | OS     | Purpose             |
