@@ -37,7 +37,7 @@
 - 🖴 Storage:
   - NVMe: Samsung 970 EVO Plus SSD 1 TiB
 
-# 💻 MacBook Pro
+# 🍎 MacBook Pro
 - Model: MacBook Pro 16" 2019
 - CPU: Intel Core i7 2.6GHz 8-Core
 - GPU: AMD Radeon Pro 5300M 4GB
