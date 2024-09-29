@@ -50,13 +50,13 @@
 
 ## 🛠️ Hardware
 
-| Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM  | OS     | Purpose             |
-|--------|---------------------|----------------|-----------------|-------------|------|--------|---------------------|
-| hv1    | Custom              | Ryzen 7 5700G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, ZFS |
-| hv2    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, ZFS |
-| hv3    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32GB | Debian | PVE, GlusterFS, ZFS |
-| hv4    | BESSTAR UM700       | Ryzen 7 3750H  | 256GB NVMe PCIe | None        | 16GB | Debian | PVE, ZFS            |
-| hv5    | Intel NUC DN2820FYK | Intel N2820    | 112GB NVMe SSD  | None        | 8GB  | Debian | PVE, ZFS            |
+| Name   | Device              | CPU            | OS Disk         | Data Disk   | RAM            | OS     | Purpose             |
+|--------|---------------------|----------------|-----------------|-------------|----------------|--------|---------------------|
+| hv1    | Custom              | Ryzen 7 5700G  | 240GB SSD       | 3TiB, 4TiB  | 32 GB 3200 MHz | Debian | PVE, GlusterFS, ZFS |
+| hv2    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32 GB 3200 MHz | Debian | PVE, GlusterFS, ZFS |
+| hv3    | Custom              | Ryzen 5 5600G  | 240GB SSD       | 3TiB, 4TiB  | 32 GB 3200 MHz | Debian | PVE, GlusterFS, ZFS |
+| hv4    | BESSTAR UM700       | Ryzen 7 3750H  | 256GB NVMe PCIe | None        | 16 GB 2667 MHz | Debian | PVE, ZFS            |
+| hv5    | Intel NUC DN2820FYK | Intel N2820    | 112GB NVMe SSD  | None        | 8 GB 1600 MHz  | Debian | PVE, ZFS            |
 
   - Total CPU: 50 threads
   - Total RAM: 120 GB
