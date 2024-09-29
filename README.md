@@ -39,7 +39,7 @@
 |--------|----------------|------------|-----------|-----------|-------|----------|-----------------------|
 | NAS    | Synology DS416 | 2x AL212   | 11TiB HDD | ZFS 56TB  | 1GB   | DSM 7.x  | NAS/NFS/Backup        |
 
-## 🧰 Networking/UPS Hardware
+## 📶 Networking/UPS Hardware
 
 | Device         | Purpose                |
 |----------------|------------------------|
