@@ -18,6 +18,34 @@
   - Matrix: https://matrix.to/#/@psi-jack:matrix.org
   - Mastodon: https://social.linux-help.org/@psijack (@psijack@social.linux-help.org)
 
+# 🖥️ Personal Computer
+- CPU: AMD Ryzen 7 5800X3D 8-Core Processor
+- GPU: ASUS AMD RX 6700 XT
+- RAM: G.Skill Ripjaws 3600 MHz DDR4 4x16 GB (64GB)
+- 🖴 Storage:
+  - NVMe: Samsung 980PRO 2TiB SSD for OS
+  - NVMe: Samsung 980PRO 2TiB SSD for /home
+  - SATA: OCZ Agility 3 224 GiB SSD for VirtualMachines
+  - SATA: Samsung 860 465 GiB SSD for Secondary OS Testing
+  - SATA: Seagate Baracuda 4 TiB HDD for additional slower /home storage
+
+# 💻 Tabtop Computer
+- Brand: Lenovo Yoga
+- CPU: Intel Core i5-10210U 1.6 GHz
+- GPU: Intel CometLake-U Intel UHD iGPU
+- RAM: 8 GB Soldered 2667 MHz DDR4
+- 🖴 Storage:
+  - NVMe: Samsung 970 EVO Plus SSD 1 TiB
+
+# 💻 MacBook Pro
+- Model: MacBook Pro 16" 2019
+- CPU: Intel Core i7 2.6GHz 8-Core
+- GPU: AMD Radeon Pro 5300M 4GB
+- GPU: Intel UHD Graphics 630 1.5GB
+- RAM: 16 GB 2667 MHz DDR4
+- 🖴 Storage:
+  - NVMe: 512 GiB Soldered
+
 # 🖥 Proxmox VE Cluster
 
 ## 🛠️ Hardware
