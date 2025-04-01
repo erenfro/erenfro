@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenfro&layout=compact&hide=html&hide_border=true&theme=tokyonight" alt="Eric Renfro's top used languages" /></p>
 
 ## 👋 Introduction
-- 🔭 I'm currently working on yadm and bash.
+- 🔭 I'm currently working on chezmoi and fish.
 - 🌱 I'm currently learning nomad.
 - 🤝🏻 I'm an active community supporter for Linux for various distributions.
 - 👯 I'm looking to collaborate on my website, https://linux-help.org/
